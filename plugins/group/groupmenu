@@ -1,0 +1,30 @@
+module.exports = {
+command: ["groupmenu"],
+category: "menu",
+
+async execute(sock, m) {
+
+const txt = `
+╭━━〔 👥 GROUP MENU 〕━━⬣
+
+➤ .linkgc
+➤ .tagall
+➤ .hidetag
+➤ .promote
+➤ .demote
+➤ .promoteall
+➤ .demoteall
+➤ .kick
+➤ .add
+➤ .mute
+➤ .unmute
+➤ .warn
+➤ .warnings
+
+╰━━━━━━━━━━━━━━⬣
+`
+
+await sock.sendMessage(m.chat,{text:txt},{quoted:m})
+
+}
+}
