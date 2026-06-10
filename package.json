@@ -1,0 +1,15 @@
+{
+  "name": "black-angel-x-md",
+  "version": "1.0.0",
+  "description": "BLACK ANGEL X MD WhatsApp Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.0.0",
+    "pino": "^8.0.0",
+    "moment": "^2.30.1"
+  }
+}
