@@ -20,9 +20,6 @@ const txt = `
 ➤ .unmute
 ➤ .warn
 ➤ .warnings
-	.tagadmins
-	.welcome
-	.goodbey
 
 ╰━━━━━━━━━━━━━━⬣
 `
