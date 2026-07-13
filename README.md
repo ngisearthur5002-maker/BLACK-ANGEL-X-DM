@@ -3,7 +3,7 @@
 👑 BLACK ANGEL X MD
 
 <div align="center">
-<img src="./assets/logo.jpg" width="250"/>
+<img src="https://i.ibb.co/7t995Kfw/IMG-0366.png"/>
 
 ⚡ The Next Generation WhatsApp Multi Device Bot
 
